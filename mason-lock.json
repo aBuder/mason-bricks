@@ -1,1 +1,1 @@
-{"bricks":{"screen_brick":{"path":"bricks/screen_brick"}}}
+{"bricks":{"screen_brick":{"git":{"url":"https://github.com/aBuder/mason-bricks.git","path":"bricks/screen_brick","ref":"cf3069867bc4b6ca9cae51ca4d7a0524c3ba7db2"}}}}
