@@ -8,7 +8,7 @@ A brick to create a screen using best practices and your state management of cho
 To install `screen_brick` you need to run following command.
 
 ```
-mason add screen_brick --git-url https://github.com/aBuder/mason-bricks.git --git-path bricks/screen_brick
+mason add screen_brick --git-url https://github.com/aBuder/mason-bricks.git --git-path bricks/screen_brick -g
 ```
 
 ## How to use 🚀
