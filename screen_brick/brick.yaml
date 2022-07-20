@@ -1,0 +1,27 @@
+name: screen_brick
+description: A brick to create a screeb using best practices and your state management of block!
+version: 0.4.0
+repository: https://github.com/LukeMoody01/mason_bricks/tree/master/bricks/feature_brick
+
+vars:
+  screen_name:
+    type: string
+    default: login
+    description: The screen name
+    prompt: What is the screen name?
+  state_management:
+    type: enum
+    default: bloc
+    description: The screen state management
+    prompt: What is the screen state management?
+    values:
+      - bloc
+      - cubit
+  immutable_management:
+    type: enum
+    default: freezed
+    description: Code generation for immutable classes
+    prompt: What code generation for immutable classes you want to use?
+    values:
+      - equatable
+      - freezed
