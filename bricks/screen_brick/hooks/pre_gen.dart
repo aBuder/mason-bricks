@@ -50,7 +50,7 @@ Future run(HookContext context) async {
     context.vars = {
       ...context.vars,
       'fullPath':
-          ('$packageName/screen/${context.vars['screen_name']}').replaceAll('//', '/'),
+          ('$packageName/screens/${context.vars['screen_name']}').replaceAll('//', '/'),
       'isBloc': isBloc,
       'isCubit': isCubit,
       'isNone': isNone,
