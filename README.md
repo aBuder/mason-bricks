@@ -23,10 +23,6 @@ A collection of bricks that enable developers to be more productive when writing
 ## Documentation
 - [Screen Brick](https://github.com/aBuder/mason-bricks/blob/main/bricks/screen_brick/)
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://github.com/LukeMoody01/mason_bricks/tree/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## Maintainers
 
-- [Alexander Buder](https://github.com/LukeMoody01)
+- [Alexander Buder](https://github.com/aBuder)
