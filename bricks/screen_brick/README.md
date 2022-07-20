@@ -34,7 +34,7 @@ mason make screen_brick --screen_name login --state_management bloc --immutable_
 ```
 lib
 ├── main.dart
-└── screen
+└── screens
     └── login
         ├── bloc
         │   ├── bloc.dart
@@ -53,7 +53,7 @@ lib
             └── widgets.dart
 
 test
-├── screen
+├── screens
 │   └── login
 │       ├── bloc
 │       │   └── login_bloc_test.dart
@@ -72,7 +72,7 @@ test
 ```
 lib
 ├── main.dart
-└── screen
+└── screens
     └── login
         ├── bloc
         │   ├── bloc.dart
@@ -91,7 +91,7 @@ lib
             └── widgets.dart
 
 test
-├── screen
+├── screens
 │   └── login
 │       ├── bloc
 │       │   └── login_bloc_test.dart
@@ -111,7 +111,7 @@ test
 ```
 lib
 ├── main.dart
-└── screen
+└── screens
     └── login
         ├── content
         │   ├── content.dart
@@ -129,7 +129,7 @@ lib
             └── widgets.dart
 
 test
-├── screen
+├── screens
 │   └── login
 │       ├── content
 │       │   ├── error_content_test.dart
@@ -148,7 +148,7 @@ test
 ```
 lib
 ├── main.dart
-└── screen
+└── screens
     └── login
         ├── content
         │   ├── content.dart
@@ -166,7 +166,7 @@ lib
             └── widgets.dart
 
 test
-├── screen
+├── screens
 │   └── login
 │       ├── content
 │       │   ├── error_content_test.dart
