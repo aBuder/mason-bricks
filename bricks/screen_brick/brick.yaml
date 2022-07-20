@@ -1,6 +1,6 @@
 name: screen_brick
 description: A brick to create a screen using best practices and your state management of bloc!
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/aBuder/mason-bricks/tree/main/bricks/screen_brick
 
 vars:
